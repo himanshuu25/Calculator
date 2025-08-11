@@ -55,3 +55,4 @@ button:active {
 button:not(.op):not(.clr) {
     background: linear-gradient(145deg, #3a3a3a, #2a2a2a);
 }
+
